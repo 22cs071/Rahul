@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"GFVFG";
+    cout<<"GFrwghVFG";
     return 0;
 }
